@@ -33,3 +33,10 @@ For both classification tasks, we utilized a pre-trained model (ResNet-50) and a
 - Low accuracy achieved, only 66%. Requires more training for improved accuracy.
 
 Overall, the pre-trained models demonstrated superior performance compared to the custom CNN models, suggesting the effectiveness of transfer learning for this task. Further tuning and training are required to enhance the performance of custom CNN models.
+
+
+## DatasetLink 
+
+###
+- https://drive.google.com/drive/folders/1vhu3LJ9eYDDQfmUZB62jFRf6PuqMbqr-
+- This drive contains the Animal Dataset which contains the testing and training data
